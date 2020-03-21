@@ -1,6 +1,13 @@
 <html>
 <h1>COVID-19 WHO Prediction and Visualization Based on Past Data</h1>
   <img src="https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/images/outbreak-coronavirus-world-1024x506px.jpg">
+ <h2>Resource Data Published by WHO</h2>
+  <a href='https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv'>Data Set of Confirmed Cases</a>
+  </br>
+  <a href='https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Deaths.csv''>Data Set of total no. of Deaths Due to COVID-19</a>
+  </br>
+   <a href=''https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Recovered.csv''>Data Set of Recovered Cases</a>
+   </br>
  <h2>How COVID-19  Spreads</h2>
 <ul>
 <li>Person-to-person spread</li>
@@ -18,3 +25,4 @@
   <p> How easily a virus spreads from person-to-person can vary. Some viruses are highly contagious (spread easily), like measles, while other viruses do not spread as easily. Another factor is whether the spread is sustained, spreading continually without stopping.
 
 The virus that causes COVID-19 seems to be spreading easily and sustainably in the community (“community spread”) in some affected geographic areas.</p>
+
