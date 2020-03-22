@@ -10,6 +10,15 @@
    </br>
   <h2>How To Run</h2>
   <p>Open the Notebook file in Python editors like Jupyter Notebook,Google Colab or kaggle Notebook. Make sure you run the notebook to see the graphs better. Some diagrams are hard to see in the default view.</p>
+  <h2>Package Requirements</h2>
+  <ul>
+  <li>numpy</li>
+  <li>matplotlib</li>
+  <li>pandas</li>
+  <li>sklearn</li>
+  <li>operator</li>
+  <li>datetime</li>
+  </ul>
  <h2>How COVID-19  Spreads</h2>
 <ul>
 <li>Person-to-person spread</li>
