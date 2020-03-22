@@ -8,6 +8,8 @@
   </br>
    <a href=''https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Recovered.csv''>Data Set of Recovered Cases</a>
    </br>
+  <h2>How To Run</h2>
+  <p>Open the Notebook file in Python editors like Jupyter Notebook,Google Colab or kaggle Notebook. Make sure you run the notebook to see the graphs better. Some diagrams are hard to see in the default view.</p>
  <h2>How COVID-19  Spreads</h2>
 <ul>
 <li>Person-to-person spread</li>
