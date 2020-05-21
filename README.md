@@ -35,5 +35,5 @@
   <h2>How easily the virus spreads</h2>
   <p> How easily a virus spreads from person-to-person can vary. Some viruses are highly contagious (spread easily), like measles, while other viruses do not spread as easily. Another factor is whether the spread is sustained, spreading continually without stopping.
 
-The virus that causes COVID-19 seems to be spreading easily and sustainably in the community (“community spread”) in some affected geographic areas.</p>
+The virus that causes COVID-19 seems to be spreading easily and sustainably in the community in some affected geographic areas.</p>
 
