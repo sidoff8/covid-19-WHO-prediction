@@ -19,7 +19,7 @@
   <li>operator</li>
   <li>datetime</li>
   </ul>
- <h2>How COVID-19  Spreads</h2>
+ <h2>How COVID-19 Spreads</h2>
 <ul>
 <li>Person-to-person spread</li>
 <li>The virus is thought to spread mainly from person-to-person.</li>
